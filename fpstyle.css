@@ -1,0 +1,27 @@
+h2{
+text-align: center;
+color: #147A1A;
+}
+h1{
+height: 200px;
+background-image: url("rna3.jpg");
+background-size: 960px 200px;
+background-repeat: no-repeat;
+background-position: center;
+}
+p{
+text-align: center;
+border-bottom: solid;
+border-color:#147A1A;
+border-top: solid;
+border-color:#147A1A;
+background-color: #FEF9CA;
+}
+body{
+width: 960px;
+margin: auto;
+background-color: white;
+}
+article{
+background-color: #594324;
+}
